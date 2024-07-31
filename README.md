@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm LAXMINARAYANA-MENDA</h1>
-- 🔭 I’m currently working on **Rating YouTube videos through sentimental analysis**
+- 🔭 I am currently researching the potential of artificial intelligence within the Energy Trading and Risk Management (ETRM) industry
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **Identifying and addressing the underlying challenges in the Energy Trading and Risk Management (ETRM) industry that can be effectively resolved through the application of artificial intelligence.**
 
 - 📫 How to reach me **laxminarayanamenda@gmail.com**
 
